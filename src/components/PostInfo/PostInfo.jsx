@@ -17,9 +17,7 @@ export const PostInfo = ({ post }) => {
         </p>
       </div>
 
-      <p className="PostInfo__body">
-        {body}
-      </p>
+      <p className="PostInfo__body">{body}</p>
 
       <hr />
 
